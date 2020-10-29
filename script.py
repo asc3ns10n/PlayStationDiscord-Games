@@ -63,43 +63,43 @@ if __name__ == '__main__':
     if os.path.exists(image_dir):
         shutil.rmtree(image_dir)
 
-    for url in urls:
-        print(f'--- {url} ---')
-        content = requests.get(url).json()
+    # for url in urls:
+    #     print(f'--- {url} ---')
+    #     content = requests.get(url).json()
 
-        for item in content['included']:
-            info = item['attributes']
+    #     for item in content['included']:
+    #         info = item['attributes']
             
-            if 'thumbnail-url-base' not in info:
-                continue
+    #         if 'thumbnail-url-base' not in info:
+    #             continue
 
-            if 'game' not in str(info['game-content-type']).lower():
-                continue
+    #         if 'game' not in str(info['game-content-type']).lower():
+    #             continue
 
-            print(info['name'])
+    #         print(info['name'])
 
-            rating = info['star-rating']
-            if not rating['total']:
-                print('\tno ratings')
-                continue
+    #         rating = info['star-rating']
+    #         if not rating['total']:
+    #             print('\tno ratings')
+    #             continue
 
-            if rating['total'] < 10 or rating['score'] < 4:
-                print('\tfailed rating check')
-                continue
+    #         if rating['total'] < 10 or rating['score'] < 4:
+    #             print('\tfailed rating check')
+    #             continue
 
-            match = re.search(r'([A-Z]{4}[0-9]{5}_00)', info['default-sku-id'])
+    #         match = re.search(r'([A-Z]{4}[0-9]{5}_00)', info['default-sku-id'])
 
-            if not match:
-                print('\tfailed regex check')
-                continue
+    #         if not match:
+    #             print('\tfailed regex check')
+    #             continue
             
-            title_id = match.group(1)
+    #         title_id = match.group(1)
 
-            if title_id not in title_ids:
-                title_ids.append(title_id)
-                print('\tadded to list')
-            else:
-                print('\talready added')
+    #         if title_id not in title_ids:
+    #             title_ids.append(title_id)
+    #             print('\tadded to list')
+    #         else:
+    #             print('\talready added')
 
     # added all the titleIds... now get their images
     for title_id in title_ids:

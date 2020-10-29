@@ -61,6 +61,7 @@ Games which are supported for [PlayStationDiscord](https://github.com/Tustin/Pla
 |<img src="ps4/CUSA01013_00.png?raw=true" width="100" height="100">|DmC Devil May Cry™: Definitive Edition              |
 |<img src="ps4/CUSA01326_00.png?raw=true" width="100" height="100">|Dust: An Elysian Tail                               |
 |<img src="ps4/CUSA05532_00.png?raw=true" width="100" height="100">|FINAL FANTASY Ⅻ THE ZODIAC AGE                      |
+|<img src="ps4/CUSA23681_00.png?raw=true" width="100" height="100">|Genshin Impact                                      |
 |<img src="ps4/CUSA11456_00.png?raw=true" width="100" height="100">|Ghost of Tsushima                                   |
 |<img src="ps4/CUSA01130_00.png?raw=true" width="100" height="100">|Gravity Rush™ Remastered                            |
 |<img src="ps4/CUSA03694_00.png?raw=true" width="100" height="100">|GRAVITY RUSH™ 2                                     |

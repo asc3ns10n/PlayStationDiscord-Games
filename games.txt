@@ -49,6 +49,7 @@ CUSA03642_00 # Dishonored 2
 CUSA01013_00 # DmC Devil May Cry: Definitive Edition	
 CUSA01326_00 # Dust: An Elysian Tail
 CUSA05532_00 # Final Fantasy XII The Zodiac Age
+CUSA23681_00 # Genshin Impact
 CUSA11456_00 # Ghost of Tsushima
 CUSA01130_00 # Gravity Rush Remastered
 CUSA03694_00 # Gravity Rush 2
