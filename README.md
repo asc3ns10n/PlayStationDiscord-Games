@@ -1,8 +1,6 @@
 # PlayStationDiscord-Games
 
-Games which are supported for [PlayStationDiscord](https://github.com/Tustin/PlayStationDiscord).
-
-[![Build Status](https://travis-ci.org/Tustin/PlayStationDiscord-Games.svg?branch=master)](https://travis-ci.org/Tustin/PlayStationDiscord-Games)
+Games which are supported for [PlayStationDiscord](https://github.com/asc3ns10n/PlayStationDiscord).
 
 ## Adding titles
 
@@ -20,15 +18,12 @@ Games which are supported for [PlayStationDiscord](https://github.com/Tustin/Pla
 |<img src="ps4/CUSA05969_00.png?raw=true" width="100" height="100">|Call of Duty®: WWII                                 |
 |<img src="ps4/CUSA04762_00.png?raw=true" width="100" height="100">|Call of Duty®: Infinite Warfare                     |
 |<img src="ps4/CUSA03522_00.png?raw=true" width="100" height="100">|Call of Duty®: Modern Warfare® Remastered           |
-|<img src="ps4/CUSA02290_00.png?raw=true" width="100" height="100">|Call of Duty®: Black Ops III                        |
 |<img src="ps4/CUSA00803_00.png?raw=true" width="100" height="100">|Call of Duty®: Advanced Warfare                     |
 |<img src="ps4/CUSA00018_00.png?raw=true" width="100" height="100">|Call of Duty® Ghosts                                |
 |<img src="ps4/CUSA08724_00.png?raw=true" width="100" height="100">|Battlefield™ V                                      |
 |<img src="ps4/CUSA08829_00.png?raw=true" width="100" height="100">|Call of Duty®: Modern Warfare®                      |
 |<img src="ps4/CUSA05770_00.png?raw=true" width="100" height="100">|STAR WARS™ Battlefront™ II                          |
-|<img src="ps4/CUSA05877_00.png?raw=true" width="100" height="100">|Persona 5                                           |
 |<img src="ps4/CUSA02299_00.png?raw=true" width="100" height="100">|Marvel's Spider-Man                                 |
-|<img src="ps4/CUSA07408_00.png?raw=true" width="100" height="100">|God of War                                          |
 |<img src="ps4/CUSA00744_00.png?raw=true" width="100" height="100">|Minecraft                                           |
 |<img src="ps4/CUSA01163_00.png?raw=true" width="100" height="100">|Rocket League®                                      |
 |<img src="ps4/CUSA03041_00.png?raw=true" width="100" height="100">|Red Dead Redemption 2                               |
@@ -48,7 +43,6 @@ Games which are supported for [PlayStationDiscord](https://github.com/Tustin/Pla
 |<img src="ps4/CUSA00003_00.png?raw=true" width="100" height="100">|DRIVECLUB™                                          |
 |<img src="ps4/CUSA03349_00.png?raw=true" width="100" height="100">|ABZU                                                |
 |<img src="ps4/CUSA01230_00.png?raw=true" width="100" height="100">|Axiom Verge                                         |
-|<img src="ps4/CUSA00900_00.png?raw=true" width="100" height="100">|Bloodborne™                                         |
 |<img src="ps4/CUSA07953_00.png?raw=true" width="100" height="100">|Bloodstained: Ritual of the Night                   |
 |<img src="ps4/CUSA08692_00.png?raw=true" width="100" height="100">|DARK SOULS™: REMASTERED                             |
 |<img src="ps4/CUSA03388_00.png?raw=true" width="100" height="100">|DARK SOULS™ III                                     |
@@ -83,7 +77,6 @@ Games which are supported for [PlayStationDiscord](https://github.com/Tustin/Pla
 |<img src="ps4/CUSA15532_00.png?raw=true" width="100" height="100">|Nioh 2                                              |
 |<img src="ps4/CUSA09929_00.png?raw=true" width="100" height="100">|Outer Wilds                                         |
 |<img src="ps4/CUSA04493_00.png?raw=true" width="100" height="100">|Prey                                                |
-|<img src="ps4/CUSA01047_00.png?raw=true" width="100" height="100">|Ratchet & Clank™                                    |
 |<img src="ps4/CUSA09193_00.png?raw=true" width="100" height="100">|RESIDENT EVIL 2                                     |
 |<img src="ps4/CUSA08034_00.png?raw=true" width="100" height="100">|SHADOW OF THE COLOSSUS                              |
 |<img src="ps4/CUSA01867_00.png?raw=true" width="100" height="100">|Shovel Knight: Treasure Trove                       |
@@ -92,9 +85,7 @@ Games which are supported for [PlayStationDiscord](https://github.com/Tustin/Pla
 |<img src="ps4/CUSA04444_00.png?raw=true" width="100" height="100">|Banner Saga 2                                       |
 |<img src="ps4/CUSA00203_00.png?raw=true" width="100" height="100">|The Evil Within                                     |
 |<img src="ps4/CUSA06166_00.png?raw=true" width="100" height="100">|The Evil Within® 2                                  |
-|<img src="ps4/CUSA03627_00.png?raw=true" width="100" height="100">|The Last Guardian™                                  |
 |<img src="ps4/CUSA07820_00.png?raw=true" width="100" height="100">|The Last of Us™ Part II                             |
-|<img src="ps4/CUSA00341_00.png?raw=true" width="100" height="100">|Uncharted 4: A Thief’s End™                         |
 |<img src="ps4/CUSA07737_00.png?raw=true" width="100" height="100">|Uncharted: The Lost Legacy™                         |
 |<img src="ps4/CUSA06886_00.png?raw=true" width="100" height="100">|What Remains of Edith Finch                         |
 |<img src="ps4/CUSA00314_00.png?raw=true" width="100" height="100">|Wolfenstein®: The New Order                         |
@@ -106,3 +97,34 @@ Games which are supported for [PlayStationDiscord](https://github.com/Tustin/Pla
 |<img src="ps4/CUSA15327_00.png?raw=true" width="100" height="100">|YAKUZA 5                                            |
 |<img src="ps4/CUSA06861_00.png?raw=true" width="100" height="100">|Zero Escape: The Nonary Games                       |
 |<img src="ps4/CUSA07593_00.png?raw=true" width="100" height="100">|Zero Escape: Zero Time Dilemma                      |
+|<img src="ps4/CUSA00133_00.png?raw=true" width="100" height="100">|BATMAN™: ARKHAM KNIGHT                              |
+|<img src="ps4/CUSA02429_00.png?raw=true" width="100" height="100">|Battlefield™ 1                                      |
+|<img src="ps4/CUSA00900_00.png?raw=true" width="100" height="100">|Bloodborne™                                         |
+|<img src="ps4/CUSA02290_00.png?raw=true" width="100" height="100">|Call of Duty®: Black Ops III                        |
+|<img src="ps4/CUSA07402_00.png?raw=true" width="100" height="100">|Crash Bandicoot N. Sane Trilogy                     |
+|<img src="ps4/CUSA08966_00.png?raw=true" width="100" height="100">|DAYS GONE                                           |
+|<img src="ps4/CUSA08344_00.png?raw=true" width="100" height="100">|Detroit: Become Human™                              |
+|<img src="ps4/CUSA02557_00.png?raw=true" width="100" height="100">|Fallout 4                                           |
+|<img src="ps4/CUSA01633_00.png?raw=true" width="100" height="100">|FINAL FANTASY XV                                    |
+|<img src="ps4/CUSA07408_00.png?raw=true" width="100" height="100">|God of War                                          |
+|<img src="ps4/CUSA00223_00.png?raw=true" width="100" height="100">|inFAMOUS Second Son™                                |
+|<img src="ps4/CUSA07713_00.png?raw=true" width="100" height="100">|Monster Hunter World: Iceborne                      |
+|<img src="ps4/CUSA00967_00.png?raw=true" width="100" height="100">|Mortal Kombat X                                     |
+|<img src="ps4/CUSA05877_00.png?raw=true" width="100" height="100">|Persona 5                                           |
+|<img src="ps4/CUSA01047_00.png?raw=true" width="100" height="100">|Ratchet & Clank™                                    |
+|<img src="ps4/CUSA03962_00.png?raw=true" width="100" height="100">|RESIDENT EVIL 7 biohazard                           |
+|<img src="ps4/CUSA03627_00.png?raw=true" width="100" height="100">|The Last Guardian™                                  |
+|<img src="ps4/CUSA00552_00.png?raw=true" width="100" height="100">|The Last of Us™ Remastered                          |
+|<img src="ps4/CUSA00341_00.png?raw=true" width="100" height="100">|Uncharted 4: A Thief’s End™                         |
+|<img src="ps4/CUSA00359_00.png?raw=true" width="100" height="100">|Until Dawn™                                         |
+|<img src="ps5/PPSA01491_00.jpg?raw=true" width="100" height="100">|Assassin's Creed Valhalla                           |
+|<img src="ps5/PPSA01325_00.jpg?raw=true" width="100" height="100">|ASTRO's PLAYROOM                                    |
+|<img src="ps5/PPSA01628_00.jpg?raw=true" width="100" height="100">|Call of Duty®: Black Ops Cold War                   |
+|<img src="ps5/PPSA01342_00.jpg?raw=true" width="100" height="100">|Demon's Souls                                       |
+|<img src="ps5/PPSA01442_00.jpg?raw=true" width="100" height="100">|Devil May Cry 5 Special Edition                     |
+|<img src="ps5/PPSA01347_00.jpg?raw=true" width="100" height="100">|Godfall                                             |
+|<img src="ps5/PPSA01411_00.jpg?raw=true" width="100" height="100">|Marvel's Spider-Man: Miles Morales                  |
+|<img src="ps5/PPSA01387_00.jpg?raw=true" width="100" height="100">|NBA 2K21 Next Generation                            |
+|<img src="ps5/PPSA01289_00.jpg?raw=true" width="100" height="100">|Sackboy: A Big Adventure                            |
+|<img src="ps5/PPSA01280_00.jpg?raw=true" width="100" height="100">|Share Factory Studio                                |
+|<img src="ps5/PPSA01825_00.jpg?raw=true" width="100" height="100">|The Pathless                                        |

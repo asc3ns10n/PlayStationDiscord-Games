@@ -5,15 +5,12 @@ CUSA11100_00 # Black Ops 4
 CUSA05969_00 # WWII
 CUSA04762_00 # Infinite Warfare
 CUSA03522_00 # Modern Warfare Remastered
-CUSA02290_00 # Black Ops 3
 CUSA00803_00 # Advanced Warfare
 CUSA00018_00 # Ghosts
 CUSA08724_00 # Battlefield V
 CUSA08829_00 # Modern Warfare
 CUSA05770_00 # Battlefront II
-CUSA05877_00 # Persona 5
 CUSA02299_00 # Spider-Man
-CUSA07408_00 # God of War
 CUSA00744_00 # Minecraft
 CUSA01163_00 # Rocket League
 CUSA03041_00 # Red Dead Redemption 2
@@ -36,7 +33,6 @@ CUSA00003_00 # Driveclub
 # My Games
 CUSA03349_00 # ABZU
 CUSA01230_00 # Axiom Verge
-CUSA00900_00 # Bloodborne
 CUSA07953_00 # Bloodstained: Ritual of the Night
 CUSA08692_00 # Dark Souls Remastered
 CUSA03388_00 # Dark Souls III
@@ -72,7 +68,6 @@ CUSA07113_00 # Nioh
 CUSA15532_00 # Nioh 2
 CUSA09929_00 # Outer Wilds
 CUSA04493_00 # Prey
-CUSA01047_00 # Ratchet & Clank
 CUSA09193_00 # Resident Evil 2
 CUSA08034_00 # Shadow of the Colossus
 CUSA01867_00 # Shovel Knight
@@ -81,9 +76,7 @@ CUSA02538_00 # The Banner Saga
 CUSA04444_00 # The Banner Saga 2
 CUSA00203_00 # The Evil Within
 CUSA06166_00 # The Evil Within 2
-CUSA03627_00 # The Last Guardian
 CUSA07820_00 # The Last of Us Part II
-CUSA00341_00 # Uncharted 4: A Thief’s End
 CUSA07737_00 # Uncharted: The Lost Legacy
 CUSA06886_00 # What Remains of Edith Finch
 CUSA00314_00 # Wolfenstein: The New Order
@@ -95,3 +88,36 @@ CUSA15326_00 # Yakuza 4
 CUSA15327_00 # Yakuza 5
 CUSA06861_00 # Zero Escape: The Nonary Games
 CUSA07593_00 # Zero Escape: Zero Time Dilemma
+# PS Plus Collection
+CUSA00133_00 # Batman: Arkham Knight
+CUSA02429_00 # Battlefield 1
+CUSA00900_00 # Bloodborne
+CUSA02290_00 # Call of Duty: Black Ops III – Zombies Chronicles Edition
+CUSA07402_00 # Crash Bandicoot N. Sane Trilogy
+CUSA08966_00 # Days Gone
+CUSA08344_00 # Detroit: Become Human
+CUSA02557_00 # Fallout 4
+CUSA01633_00 # Final Fantasy XV
+CUSA07408_00 # God of War
+CUSA00223_00 # Infamous Second Son
+CUSA07713_00 # Monster Hunter: World
+CUSA00967_00 # Mortal Kombat X
+CUSA05877_00 # Persona 5
+CUSA01047_00 # Ratchet & Clank
+CUSA03962_00 # Resident Evil 7: Biohazard
+CUSA03627_00 # The Last Guardian
+CUSA00552_00 # The Last Of Us Remastered
+CUSA00341_00 # Uncharted 4: A Thief’s End
+CUSA00359_00 # Until Dawn
+# PS5
+PPSA01491_00 # Assassin's Creed Valhalla
+PPSA01325_00 # Astro's Playroom
+PPSA01628_00 # Call of Duty: Black Ops Cold War
+PPSA01342_00 # Demon's Souls
+PPSA01442_00 # Devil May Cry 5: Special Edition
+PPSA01347_00 # Godfall
+PPSA01411_00 # Marvel's Spider-Man: Miles Morales
+PPSA01387_00 # NBA 2K21
+PPSA01289_00 # Sackboy: A Big Adventure
+PPSA01280_00 # Share Factory Studio
+PPSA01825_00 # The Pathless
