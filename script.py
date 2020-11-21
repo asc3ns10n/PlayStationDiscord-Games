@@ -5,6 +5,8 @@ from pytablewriter import MarkdownTableWriter
 tmdb_key = bytearray.fromhex('F5DE66D2680E255B2DF79E74F890EBF349262F618BCAE2A9ACCDEE5156CE8DF2CDF2D48C71173CDC2594465B87405D197CF1AED3B7E9671EEB56CA6753C2E6B0')
 
 title_ids = []
+ps5_game_names = []
+ps5_title_ids = []
 
 print('checking games.txt for custom titles...')
 with open('games.txt', 'r') as game_reader:
@@ -19,20 +21,20 @@ with open('games.txt', 'r') as game_reader:
 
 print(f'added {len(title_ids)} games from games.txt')
 
-urls = [
-    # Top 50 Games
-    "https://store.playstation.com/valkyrie-api/en/US/19/container/STORE-MSF77008-TOPGAMES?size=200&bucket=games&start=0&gameContentType=games&platform=ps4",
-    # PS+ Games
-    "https://store.playstation.com/valkyrie-api/en/US/19/container/STORE-MSF77008-PSPLUSFREEGAMES?size=30&bucket=games&start=0&platform=ps4",
-    # Top 50 digital only games
-    "https://store.playstation.com/valkyrie-api/en/US/19/container/STORE-MSF77008-TOPPSNGAMES?size=50&bucket=games&start=0&platform=ps4",
-    # 10 newest free games
-    "https://store.playstation.com/valkyrie-api/en/US/19/container/STORE-MSF77008-GAMESFREETOPLAY?sort=release_date&direction=desc&size=10&bucket=games&start=0&platform=ps4",
-    # Newest games this month
-    "https://store.playstation.com/valkyrie-api/en/US/19/container/STORE-MSF77008-NEWTHISMONTH?game_content_type=games&size=100&bucket=games&start=0&platform=ps4",
-    # Coming soon
-    "https://store.playstation.com/valkyrie-api/en/US/19/container/STORE-MSF77008-PS3PSNPREORDERS?gameContentType=games&gameType=ps4_full_games%2Cpsn_games&releaseDate=coming_soon%2Clast_30_days&platform=ps4"
-]
+print('checking games_ps5.txt for custom titles...')
+with open('games_ps5.txt', 'r') as ps5_game_reader:
+    for line in ps5_game_reader.readlines():
+        line = line.strip()
+
+        if line.startswith('#'):
+            continue
+        
+        title_id = line.split('#')[0].strip()
+        name = line.split('#')[1].strip()
+        ps5_game_names.append(name)
+        ps5_title_ids.append(title_id)
+
+print(f'added {len(ps5_title_ids)} games from games_ps5.txt')
 
 image_dir = 'ps4'
 
@@ -52,54 +54,20 @@ if __name__ == '__main__':
 
     done = {"ps4": []}
     table_writer = None
+    ps5_table_writer = None
 
     if os.path.isfile('README.template'):
         table_writer = MarkdownTableWriter()
         table_writer.headers = ["Icon", "Title"]
         table_writer.value_matrix = []
+        ps5_table_writer = MarkdownTableWriter()
+        ps5_table_writer.headers = ["Icon", "Title"]
+        ps5_table_writer.value_matrix = []
     else:
          print('missing README.template. wont update README.md file.')
 
     if os.path.exists(image_dir):
         shutil.rmtree(image_dir)
-
-    # for url in urls:
-    #     print(f'--- {url} ---')
-    #     content = requests.get(url).json()
-
-    #     for item in content['included']:
-    #         info = item['attributes']
-            
-    #         if 'thumbnail-url-base' not in info:
-    #             continue
-
-    #         if 'game' not in str(info['game-content-type']).lower():
-    #             continue
-
-    #         print(info['name'])
-
-    #         rating = info['star-rating']
-    #         if not rating['total']:
-    #             print('\tno ratings')
-    #             continue
-
-    #         if rating['total'] < 10 or rating['score'] < 4:
-    #             print('\tfailed rating check')
-    #             continue
-
-    #         match = re.search(r'([A-Z]{4}[0-9]{5}_00)', info['default-sku-id'])
-
-    #         if not match:
-    #             print('\tfailed regex check')
-    #             continue
-            
-    #         title_id = match.group(1)
-
-    #         if title_id not in title_ids:
-    #             title_ids.append(title_id)
-    #             print('\tadded to list')
-    #         else:
-    #             print('\talready added')
 
     # added all the titleIds... now get their images
     for title_id in title_ids:
@@ -163,12 +131,29 @@ if __name__ == '__main__':
         urllib.request.urlretrieve(game_icon, icon_file)
         
         print('\tsaved')
+
+    # don't know how to get images for PS5 games, so will need to use preuploaded file
+    for index, title_id in enumerate(ps5_title_ids):
+        game_name = ps5_game_names[index]
+        done["ps4"].append({
+            "name": game_name,
+            "titleId": title_id
+        })
+
+        discord_title_ids.append(title_id.lower())
+
+        icon_file = f'ps5/{title_id}.jpg'
+
+        if ps5_table_writer != None:
+            ps5_table_writer.value_matrix.append([
+                f'<img src="{icon_file}?raw=true" width="100" height="100">',
+                game_name
+            ])
     
-    if table_writer != None:
-        with open("README.template", "rt") as template:
-            with open('README.md', 'wt', encoding='utf-8') as readme:
-                for line in template:
-                    readme.write(line.replace('!!games!!', table_writer.dumps()))
+    with open("README.template", "rt") as template:
+        with open('README.md', 'wt', encoding='utf-8') as readme:
+            for line in template:
+                readme.write(line.replace('!!games!!', table_writer.dumps()).replace('!!PS5games!!', ps5_table_writer.dumps()))
     
     with open('games.json', 'w') as games_file:
        json.dump(done, games_file)
