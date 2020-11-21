@@ -2,13 +2,15 @@
 
 Games which are supported for [PlayStationDiscord](https://github.com/asc3ns10n/PlayStationDiscord).
 
+[![Build Status](https://travis-ci.org/Tustin/PlayStationDiscord-Games.svg?branch=master)](https://travis-ci.org/Tustin/PlayStationDiscord-Games)
+
 ## Adding titles
 
 1. Fork the repo
 2. Modify `games.txt` and add the title id(s) you want (use the same format I used) **Please don't modify `games.json`, this file should be read-only and only modified by the script.**
 3. Open a PR with your changes.
 
-## Supported Games
+## Supported PS4 Games
 
 |                               Icon                               |                       Title                        |
 |------------------------------------------------------------------|----------------------------------------------------|
@@ -117,14 +119,27 @@ Games which are supported for [PlayStationDiscord](https://github.com/asc3ns10n/
 |<img src="ps4/CUSA00552_00.png?raw=true" width="100" height="100">|The Last of Us™ Remastered                          |
 |<img src="ps4/CUSA00341_00.png?raw=true" width="100" height="100">|Uncharted 4: A Thief’s End™                         |
 |<img src="ps4/CUSA00359_00.png?raw=true" width="100" height="100">|Until Dawn™                                         |
-|<img src="ps5/PPSA01491_00.jpg?raw=true" width="100" height="100">|Assassin's Creed Valhalla                           |
-|<img src="ps5/PPSA01325_00.jpg?raw=true" width="100" height="100">|ASTRO's PLAYROOM                                    |
-|<img src="ps5/PPSA01628_00.jpg?raw=true" width="100" height="100">|Call of Duty®: Black Ops Cold War                   |
-|<img src="ps5/PPSA01342_00.jpg?raw=true" width="100" height="100">|Demon's Souls                                       |
-|<img src="ps5/PPSA01442_00.jpg?raw=true" width="100" height="100">|Devil May Cry 5 Special Edition                     |
-|<img src="ps5/PPSA01347_00.jpg?raw=true" width="100" height="100">|Godfall                                             |
-|<img src="ps5/PPSA01411_00.jpg?raw=true" width="100" height="100">|Marvel's Spider-Man: Miles Morales                  |
-|<img src="ps5/PPSA01387_00.jpg?raw=true" width="100" height="100">|NBA 2K21 Next Generation                            |
-|<img src="ps5/PPSA01289_00.jpg?raw=true" width="100" height="100">|Sackboy: A Big Adventure                            |
-|<img src="ps5/PPSA01280_00.jpg?raw=true" width="100" height="100">|Share Factory Studio                                |
-|<img src="ps5/PPSA01825_00.jpg?raw=true" width="100" height="100">|The Pathless                                        |
+
+
+## Supported PS5 Games
+
+|                               Icon                               |              Title               |
+|------------------------------------------------------------------|----------------------------------|
+|<img src="ps5/PPSA01491_00.jpg?raw=true" width="100" height="100">|Assassin's Creed® Valhalla        |
+|<img src="ps5/PPSA01325_00.jpg?raw=true" width="100" height="100">|Astro's Playroom                  |
+|<img src="ps5/PPSA01462_00.jpg?raw=true" width="100" height="100">|Borderlands 3                     |
+|<img src="ps5/PPSA01502_00.jpg?raw=true" width="100" height="100">|Bugsnax                           |
+|<img src="ps5/PPSA01628_00.jpg?raw=true" width="100" height="100">|Call of Duty®: Black Ops Cold War |
+|<img src="ps5/PPSA02048_00.jpg?raw=true" width="100" height="100">|Dead by Daylight: Special Edition |
+|<img src="ps5/PPSA01342_00.jpg?raw=true" width="100" height="100">|Demon's Souls                     |
+|<img src="ps5/PPSA01442_00.jpg?raw=true" width="100" height="100">|Devil May Cry 5 Special Edition   |
+|<img src="ps5/PPSA01552_00.jpg?raw=true" width="100" height="100">|DIRT 5                            |
+|<img src="ps5/PPSA01922_00.jpg?raw=true" width="100" height="100">|Fortnite                          |
+|<img src="ps5/PPSA01347_00.jpg?raw=true" width="100" height="100">|Godfall                           |
+|<img src="ps5/PPSA01411_00.jpg?raw=true" width="100" height="100">|Marvel's Spider-Man: Miles Morales|
+|<img src="ps5/PPSA01387_00.jpg?raw=true" width="100" height="100">|NBA 2K21                          |
+|<img src="ps5/PPSA02110_00.jpg?raw=true" width="100" height="100">|No Man's Sky                      |
+|<img src="ps5/PPSA02118_00.jpg?raw=true" width="100" height="100">|Observer: System Redux            |
+|<img src="ps5/PPSA01289_00.jpg?raw=true" width="100" height="100">|Sackboy: A Big Adventure          |
+|<img src="ps5/PPSA01825_00.jpg?raw=true" width="100" height="100">|The Pathless                      |
+|<img src="ps5/PPSA01487_00.jpg?raw=true" width="100" height="100">|Watch Dogs: Legion                |

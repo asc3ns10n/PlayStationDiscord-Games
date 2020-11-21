@@ -109,15 +109,3 @@ CUSA03627_00 # The Last Guardian
 CUSA00552_00 # The Last Of Us Remastered
 CUSA00341_00 # Uncharted 4: A Thief’s End
 CUSA00359_00 # Until Dawn
-# PS5
-PPSA01491_00 # Assassin's Creed Valhalla
-PPSA01325_00 # Astro's Playroom
-PPSA01628_00 # Call of Duty: Black Ops Cold War
-PPSA01342_00 # Demon's Souls
-PPSA01442_00 # Devil May Cry 5: Special Edition
-PPSA01347_00 # Godfall
-PPSA01411_00 # Marvel's Spider-Man: Miles Morales
-PPSA01387_00 # NBA 2K21
-PPSA01289_00 # Sackboy: A Big Adventure
-PPSA01280_00 # Share Factory Studio
-PPSA01825_00 # The Pathless

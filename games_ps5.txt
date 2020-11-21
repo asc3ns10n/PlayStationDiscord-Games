@@ -1,0 +1,18 @@
+PPSA01491_00 # Assassin's Creed® Valhalla
+PPSA01325_00 # Astro's Playroom
+PPSA01462_00 # Borderlands 3
+PPSA01502_00 # Bugsnax
+PPSA01628_00 # Call of Duty®: Black Ops Cold War
+PPSA02048_00 # Dead by Daylight: Special Edition
+PPSA01342_00 # Demon's Souls
+PPSA01442_00 # Devil May Cry 5 Special Edition
+PPSA01552_00 # DIRT 5
+PPSA01922_00 # Fortnite
+PPSA01347_00 # Godfall
+PPSA01411_00 # Marvel's Spider-Man: Miles Morales
+PPSA01387_00 # NBA 2K21
+PPSA02110_00 # No Man's Sky
+PPSA02118_00 # Observer: System Redux
+PPSA01289_00 # Sackboy: A Big Adventure
+PPSA01825_00 # The Pathless
+PPSA01487_00 # Watch Dogs: Legion
