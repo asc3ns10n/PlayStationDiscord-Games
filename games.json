@@ -1,1 +1,525 @@
-{"ps4": [{"name": "Fortnite", "titleId": "CUSA07022_00"}, {"name": "Destiny 2", "titleId": "CUSA05042_00"}, {"name": "Call of Duty\u00ae: Black Ops 4", "titleId": "CUSA11100_00"}, {"name": "Call of Duty\u00ae: WWII", "titleId": "CUSA05969_00"}, {"name": "Call of Duty\u00ae: Infinite Warfare", "titleId": "CUSA04762_00"}, {"name": "Call of Duty\u00ae: Modern Warfare\u00ae Remastered", "titleId": "CUSA03522_00"}, {"name": "Call of Duty\u00ae: Advanced Warfare", "titleId": "CUSA00803_00"}, {"name": "Call of Duty\u00ae Ghosts", "titleId": "CUSA00018_00"}, {"name": "Battlefield\u2122 V", "titleId": "CUSA08724_00"}, {"name": "Call of Duty\u00ae: Modern Warfare\u00ae", "titleId": "CUSA08829_00"}, {"name": "STAR WARS\u2122 Battlefront\u2122 II", "titleId": "CUSA05770_00"}, {"name": "Marvel's Spider-Man", "titleId": "CUSA02299_00"}, {"name": "Minecraft", "titleId": "CUSA00744_00"}, {"name": "Rocket League\u00ae", "titleId": "CUSA01163_00"}, {"name": "Red Dead Redemption 2", "titleId": "CUSA03041_00"}, {"name": "Tom Clancy's Rainbow Six\u00ae Siege", "titleId": "CUSA01788_00"}, {"name": "FINAL FANTASY VII REMAKE", "titleId": "CUSA07211_00"}, {"name": "RESIDENT EVIL 3", "titleId": "CUSA14168_00"}, {"name": "Call of Duty\u00ae: Modern Warfare\u00ae 2 Campaign Remastered", "titleId": "CUSA09249_00"}, {"name": "KINGDOM HEARTS \u2162", "titleId": "CUSA12031_00"}, {"name": "Sid Meier's Civilization VI", "titleId": "CUSA15322_00"}, {"name": "Uncharted: The Nathan Drake Collection\u2122", "titleId": "CUSA02320_00"}, {"name": "Assassin's Creed\u00ae Odyssey", "titleId": "CUSA09311_00"}, {"name": "KINGDOM HEARTS - HD 1.5+2.5 ReMIX -", "titleId": "CUSA05933_00"}, {"name": "TERA", "titleId": "CUSA06412_00"}, {"name": "Black Desert", "titleId": "CUSA15233_00"}, {"name": "FINAL FANTASY XIV", "titleId": "CUSA00288_00"}, {"name": "YAKUZA 6: The Song of Life", "titleId": "CUSA09032_00"}, {"name": "DRIVECLUB\u2122", "titleId": "CUSA00003_00"}, {"name": "ABZU", "titleId": "CUSA03349_00"}, {"name": "Axiom Verge", "titleId": "CUSA01230_00"}, {"name": "Bloodstained: Ritual of the Night", "titleId": "CUSA07953_00"}, {"name": "DARK SOULS\u2122: REMASTERED", "titleId": "CUSA08692_00"}, {"name": "DARK SOULS\u2122 III", "titleId": "CUSA03388_00"}, {"name": "DEATH STRANDING", "titleId": "CUSA11260_00"}, {"name": "Devil May Cry\u00ae HD Collection", "titleId": "CUSA09407_00"}, {"name": "Devil May Cry 4 Special Edition", "titleId": "CUSA01671_00"}, {"name": "Devil May Cry 5", "titleId": "CUSA08216_00"}, {"name": "Dishonored\u00ae Definitive Edition", "titleId": "CUSA02218_00"}, {"name": "Dishonored 2", "titleId": "CUSA03642_00"}, {"name": "DmC Devil May Cry\u2122: Definitive Edition", "titleId": "CUSA01013_00"}, {"name": "Dust: An Elysian Tail", "titleId": "CUSA01326_00"}, {"name": "FINAL FANTASY \u216b THE ZODIAC AGE", "titleId": "CUSA05532_00"}, {"name": "Genshin Impact", "titleId": "CUSA23681_00"}, {"name": "Ghost of Tsushima", "titleId": "CUSA11456_00"}, {"name": "Gravity Rush\u2122 Remastered", "titleId": "CUSA01130_00"}, {"name": "GRAVITY RUSH\u2122 2", "titleId": "CUSA03694_00"}, {"name": "Guacamelee! Super Turbo Championship Edition", "titleId": "CUSA00151_00"}, {"name": "Horizon Zero Dawn: Complete Edition", "titleId": "CUSA10237_00"}, {"name": "INSIDE", "titleId": "CUSA05297_00"}, {"name": "Journey", "titleId": "CUSA00694_00"}, {"name": "Judgment", "titleId": "CUSA13186_00"}, {"name": "Life Is Strange\u2122", "titleId": "CUSA01442_00"}, {"name": "Life is Strange: Before the Storm", "titleId": "CUSA08479_00"}, {"name": "LIMBO", "titleId": "CUSA01664_00"}, {"name": "Metal Wolf Chaos XD", "titleId": "CUSA15879_00"}, {"name": "Metro Redux", "titleId": "CUSA00683_00"}, {"name": "Metro: Last Light Redux", "titleId": "CUSA00624_00"}, {"name": "Ni no Kuni Wrath of the White Witch\u2122 Remastered", "titleId": "CUSA14156_00"}, {"name": "Ni no Kuni\u2122 II: Revenant Kingdom", "titleId": "CUSA07345_00"}, {"name": "NieR:Automata", "titleId": "CUSA04551_00"}, {"name": "Nioh", "titleId": "CUSA07113_00"}, {"name": "Nioh 2", "titleId": "CUSA15532_00"}, {"name": "Outer Wilds", "titleId": "CUSA09929_00"}, {"name": "Prey", "titleId": "CUSA04493_00"}, {"name": "RESIDENT EVIL 2", "titleId": "CUSA09193_00"}, {"name": "SHADOW OF THE COLOSSUS", "titleId": "CUSA08034_00"}, {"name": "Shovel Knight: Treasure Trove", "titleId": "CUSA01867_00"}, {"name": "SOMA", "titleId": "CUSA03333_00"}, {"name": "The Banner Saga", "titleId": "CUSA02538_00"}, {"name": "Banner Saga 2", "titleId": "CUSA04444_00"}, {"name": "The Evil Within", "titleId": "CUSA00203_00"}, {"name": "The Evil Within\u00ae 2", "titleId": "CUSA06166_00"}, {"name": "The Last of Us\u2122 Part II", "titleId": "CUSA07820_00"}, {"name": "Uncharted: The Lost Legacy\u2122", "titleId": "CUSA07737_00"}, {"name": "What Remains of Edith Finch", "titleId": "CUSA06886_00"}, {"name": "Wolfenstein\u00ae: The New Order", "titleId": "CUSA00314_00"}, {"name": "YAKUZA 0", "titleId": "CUSA05070_00"}, {"name": "YAKUZA KIWAMI", "titleId": "CUSA06997_00"}, {"name": "YAKUZA KIWAMI 2", "titleId": "CUSA10634_00"}, {"name": "YAKUZA 3", "titleId": "CUSA15325_00"}, {"name": "YAKUZA 4", "titleId": "CUSA15326_00"}, {"name": "YAKUZA 5", "titleId": "CUSA15327_00"}, {"name": "Zero Escape: The Nonary Games", "titleId": "CUSA06861_00"}, {"name": "Zero Escape: Zero Time Dilemma", "titleId": "CUSA07593_00"}, {"name": "BATMAN\u2122: ARKHAM KNIGHT", "titleId": "CUSA00133_00"}, {"name": "Battlefield\u2122 1", "titleId": "CUSA02429_00"}, {"name": "Bloodborne\u2122", "titleId": "CUSA00900_00"}, {"name": "Call of Duty\u00ae: Black Ops III", "titleId": "CUSA02290_00"}, {"name": "Crash Bandicoot N. Sane Trilogy", "titleId": "CUSA07402_00"}, {"name": "DAYS GONE", "titleId": "CUSA08966_00"}, {"name": "Detroit: Become Human\u2122", "titleId": "CUSA08344_00"}, {"name": "Fallout 4", "titleId": "CUSA02557_00"}, {"name": "FINAL FANTASY XV", "titleId": "CUSA01633_00"}, {"name": "God of War", "titleId": "CUSA07408_00"}, {"name": "inFAMOUS Second Son\u2122", "titleId": "CUSA00223_00"}, {"name": "Monster Hunter World: Iceborne", "titleId": "CUSA07713_00"}, {"name": "Mortal Kombat X", "titleId": "CUSA00967_00"}, {"name": "Persona 5", "titleId": "CUSA05877_00"}, {"name": "Ratchet & Clank\u2122", "titleId": "CUSA01047_00"}, {"name": "RESIDENT EVIL 7 biohazard", "titleId": "CUSA03962_00"}, {"name": "The Last Guardian\u2122", "titleId": "CUSA03627_00"}, {"name": "The Last of Us\u2122 Remastered", "titleId": "CUSA00552_00"}, {"name": "Uncharted 4: A Thief\u2019s End\u2122", "titleId": "CUSA00341_00"}, {"name": "Until Dawn\u2122", "titleId": "CUSA00359_00"}, {"name": "Assassin's Creed\u00ae Valhalla", "titleId": "PPSA01491_00"}, {"name": "Astro's Playroom", "titleId": "PPSA01325_00"}, {"name": "Borderlands 3", "titleId": "PPSA01462_00"}, {"name": "Bugsnax", "titleId": "PPSA01502_00"}, {"name": "Call of Duty\u00ae: Black Ops Cold War", "titleId": "PPSA01628_00"}, {"name": "Dead by Daylight: Special Edition", "titleId": "PPSA02048_00"}, {"name": "Demon's Souls", "titleId": "PPSA01342_00"}, {"name": "Devil May Cry 5 Special Edition", "titleId": "PPSA01442_00"}, {"name": "DIRT 5", "titleId": "PPSA01552_00"}, {"name": "Fortnite", "titleId": "PPSA01922_00"}, {"name": "Godfall", "titleId": "PPSA01347_00"}, {"name": "Marvel's Spider-Man: Miles Morales", "titleId": "PPSA01411_00"}, {"name": "NBA 2K21", "titleId": "PPSA01387_00"}, {"name": "No Man's Sky", "titleId": "PPSA02110_00"}, {"name": "Observer: System Redux", "titleId": "PPSA02118_00"}, {"name": "Sackboy: A Big Adventure", "titleId": "PPSA01289_00"}, {"name": "The Pathless", "titleId": "PPSA01825_00"}, {"name": "Watch Dogs: Legion", "titleId": "PPSA01487_00"}]}
+{
+	"ps5": [{
+		"name": "Assassin's Creed\u00ae Valhalla",
+		"titleId": "PPSA01491_00"
+	}, {
+		"name": "Astro's Playroom",
+		"titleId": "PPSA01325_00"
+	}, {
+		"name": "Borderlands 3",
+		"titleId": "PPSA01462_00"
+	}, {
+		"name": "Bugsnax",
+		"titleId": "PPSA01502_00"
+	}, {
+		"name": "Call of Duty\u00ae: Black Ops Cold War",
+		"titleId": "PPSA01628_00"
+	}, {
+		"name": "Dead by Daylight",
+		"titleId": "PPSA02048_00"
+	}, {
+		"name": "Demon's Souls",
+		"titleId": "PPSA01342_00"
+	}, {
+		"name": "Devil May Cry 5 Special Edition",
+		"titleId": "PPSA01442_00"
+	}, {
+		"name": "DIRT 5",
+		"titleId": "PPSA01552_00"
+	}, {
+		"name": "Fortnite",
+		"titleId": "PPSA01922_00"
+	}, {
+		"name": "Godfall",
+		"titleId": "PPSA01347_00"
+	}, {
+		"name": "Marvel's Spider-Man: Miles Morales",
+		"titleId": "PPSA01411_00"
+	}, {
+		"name": "NBA 2K21",
+		"titleId": "PPSA01387_00"
+	}, {
+		"name": "Nioh 2 Remastered",
+		"titleId": "PPSA02487_00"
+	}, {
+		"name": "No Man's Sky",
+		"titleId": "PPSA02110_00"
+	}, {
+		"name": "Observer: System Redux",
+		"titleId": "PPSA02118_00"
+	}, {
+		"name": "Sackboy: A Big Adventure",
+		"titleId": "PPSA01289_00"
+	}, {
+		"name": "The Pathless",
+		"titleId": "PPSA01825_00"
+	}, {
+		"name": "Watch Dogs: Legion",
+		"titleId": "PPSA01487_00"
+	}],
+	"ps4": [{
+		"name": "ABZU",
+		"titleId": "CUSA03349_00"
+	}, {
+		"name": "Alien: Isolation\u2122",
+		"titleId": "CUSA00363_00"
+	}, {
+		"name": "Amnesia Collection",
+		"titleId": "CUSA05882_00"
+	}, {
+		"name": "Assassin's Creed\u00ae Odyssey",
+		"titleId": "CUSA09311_00"
+	}, {
+		"name": "Assassin's Creed\u00ae Syndicate",
+		"titleId": "CUSA02389_00"
+	}, {
+		"name": "Axiom Verge",
+		"titleId": "CUSA01230_00"
+	}, {
+		"name": "Bastion",
+		"titleId": "CUSA02052_00"
+	}, {
+		"name": "Batman",
+		"titleId": "CUSA05332_00"
+	}, {
+		"name": "Bayonetta",
+		"titleId": "CUSA16113_00"
+	}, {
+		"name": "Bloodstained: Ritual of the Night",
+		"titleId": "CUSA07953_00"
+	}, {
+		"name": "Brothers : a Tale of Two Sons",
+		"titleId": "CUSA02297_00"
+	}, {
+		"name": "Bully",
+		"titleId": "CUSA03507_00"
+	}, {
+		"name": "Call of Duty\u00ae: Black Ops III",
+		"titleId": "CUSA02290_00"
+	}, {
+		"name": "Child of Light",
+		"titleId": "CUSA00339_00"
+	}, {
+		"name": "Cosmic Star Heroine",
+		"titleId": "CUSA03167_00"
+	}, {
+		"name": "Cyberpunk 2077",
+		"titleId": "CUSA16596_00"
+	},  {
+		"name": "Crash Bandicoot N. Sane Trilogy",
+		"titleId": "CUSA07402_00"
+	}, {
+		"name": "DARK SOULS\u2122: REMASTERED",
+		"titleId": "CUSA08692_00"
+	}, {
+		"name": "DARK SOULS\u2122 III",
+		"titleId": "CUSA03388_00"
+	}, {
+		"name": "DAYS GONE",
+		"titleId": "CUSA08966_00"
+	}, {
+		"name": "DEATH STRANDING",
+		"titleId": "CUSA11260_00"
+	}, {
+		"name": "Detroit: Become Human\u2122",
+		"titleId": "CUSA08344_00"
+	}, {
+		"name": "Devil May Cry\u00ae HD Collection",
+		"titleId": "CUSA09407_00"
+	}, {
+		"name": "Devil May Cry 4 Special Edition",
+		"titleId": "CUSA01671_00"
+	}, {
+		"name": "Dishonored\u00ae Definitive Edition",
+		"titleId": "CUSA02218_00"
+	}, {
+		"name": "Dishonored 2",
+		"titleId": "CUSA03642_00"
+	}, {
+		"name": "DmC Devil May Cry\u2122: Definitive Edition",
+		"titleId": "CUSA01013_00"
+	}, {
+		"name": "DOOM",
+		"titleId": "CUSA02085_00"
+	}, {
+		"name": "Dust: An Elysian Tail",
+		"titleId": "CUSA01326_00"
+	}, {
+		"name": "FINAL FANTASY VII REMAKE",
+		"titleId": "CUSA07211_00"
+	}, {
+		"name": "FINAL FANTASY IX",
+		"titleId": "CUSA08877_00"
+	}, {
+		"name": "FINAL FANTASY X/X-2 HD Remaster",
+		"titleId": "CUSA01227_00"
+	}, {
+		"name": "FINAL FANTASY \u216b THE ZODIAC AGE",
+		"titleId": "CUSA05532_00"
+	}, {
+		"name": "FINAL FANTASY XV",
+		"titleId": "CUSA01633_00"
+	}, {
+		"name": "flOw",
+		"titleId": "CUSA00144_00"
+	}, {
+		"name": "Genshin Impact",
+		"titleId": "CUSA23681_00"
+	}, {
+		"name": "Ghost of Tsushima",
+		"titleId": "CUSA11456_00"
+	}, {
+		"name": "God of War",
+		"titleId": "CUSA07408_00"
+	}, {
+		"name": "Gone Home: Console Edition",
+		"titleId": "CUSA01228_00"
+	}, {
+		"name": "Gravity Rush\u2122 Remastered",
+		"titleId": "CUSA01130_00"
+	}, {
+		"name": "GRAVITY RUSH\u2122 2",
+		"titleId": "CUSA03694_00"
+	}, {
+		"name": "Grim Fandango Remastered",
+		"titleId": "CUSA01319_00"
+	}, {
+		"name": "Guacamelee! Super Turbo Championship Edition",
+		"titleId": "CUSA00151_00"
+	}, {
+		"name": "Guacamelee! 2",
+		"titleId": "CUSA07098_00"
+	}, {
+		"name": "HEAVY RAIN\u2122 ",
+		"titleId": "CUSA02533_00"
+	}, {
+		"name": "HITMAN\u2122",
+		"titleId": "CUSA02976_00"
+	}, {
+		"name": "Hollow Knight",
+		"titleId": "CUSA13632_00"
+	}, {
+		"name": "Horizon Zero Dawn: Complete Edition",
+		"titleId": "CUSA10237_00"
+	}, {
+		"name": "Hotline Miami",
+		"titleId": "CUSA00486_00"
+	}, {
+		"name": "I am Setsuna.",
+		"titleId": "CUSA04770_00"
+	}, {
+		"name": "inFAMOUS First Light\u2122",
+		"titleId": "CUSA00575_00"
+	}, {
+		"name": "INSIDE",
+		"titleId": "CUSA05297_00"
+	}, {
+		"name": "JoJo's Bizarre Adventure: Eyes of Heaven",
+		"titleId": "CUSA04897_00"
+	}, {
+		"name": "Journey",
+		"titleId": "CUSA00694_00"
+	}, {
+		"name": "Judgment",
+		"titleId": "CUSA13186_00"
+	}, {
+		"name": "Katamari Damacy REROLL",
+		"titleId": "CUSA24361_00"
+	}, {
+		"name": "KINGDOM HEARTS - HD 1.5+2.5 ReMIX -",
+		"titleId": "CUSA05933_00"
+	}, {
+		"name": "KINGDOM HEARTS HD 2.8 FINAL CHAPTER PROLOGUE",
+		"titleId": "CUSA05795_00"
+	}, {
+		"name": "KINGDOM HEARTS \u2162",
+		"titleId": "CUSA12031_00"
+	}, {
+		"name": "Life Is Strange\u2122",
+		"titleId": "CUSA01442_00"
+	}, {
+		"name": "Life is Strange 2",
+		"titleId": "CUSA08283_00"
+	}, {
+		"name": "Life is Strange: Before the Storm",
+		"titleId": "CUSA08479_00"
+	}, {
+		"name": "LIMBO",
+		"titleId": "CUSA01664_00"
+	}, {
+		"name": "Mega Man Legacy Collection",
+		"titleId": "CUSA02516_00"
+	}, {
+		"name": "Metal Wolf Chaos XD",
+		"titleId": "CUSA15879_00"
+	}, {
+		"name": "Metro Redux",
+		"titleId": "CUSA00683_00"
+	}, {
+		"name": "Metro: Last Light Redux",
+		"titleId": "CUSA00624_00"
+	}, {
+		"name": "Monster Hunter World: Iceborne",
+		"titleId": "CUSA07713_00"
+	}, {
+		"name": "Ni no Kuni Wrath of the White Witch\u2122 Remastered",
+		"titleId": "CUSA14156_00"
+	}, {
+		"name": "Ni no Kuni\u2122 II: Revenant Kingdom",
+		"titleId": "CUSA07345_00"
+	}, {
+		"name": "NieR Replicant ver.1.22474487139...",
+		"titleId": "CUSA18774_00"
+	}, {
+		"name": "NieR:Automata",
+		"titleId": "CUSA04551_00"
+	}, {
+		"name": "Nioh",
+		"titleId": "CUSA07113_00"
+	}, {
+		"name": "Odin Sphere Leifthrasir",
+		"titleId": "CUSA05083_00"
+	}, {
+		"name": "\u014cKAMI HD",
+		"titleId": "CUSA08418_00"
+	}, {
+		"name": "Onimusha: Warlords",
+		"titleId": "CUSA11300_00"
+	}, {
+		"name": "Outer Wilds",
+		"titleId": "CUSA09929_00"
+	}, {
+		"name": "Outlast",
+		"titleId": "CUSA00325_00"
+	}, {
+		"name": "Prey",
+		"titleId": "CUSA04493_00"
+	}, {
+		"name": "Ratchet & Clank\u2122",
+		"titleId": "CUSA01047_00"
+	}, {
+		"name": "RESIDENT EVIL 2",
+		"titleId": "CUSA09193_00"
+	}, {
+		"name": "RESIDENT EVIL 3",
+		"titleId": "CUSA14168_00"
+	}, {
+		"name": "resident evil 4",
+		"titleId": "CUSA04885_00"
+	}, {
+		"name": "RESIDENT EVIL5",
+		"titleId": "CUSA04437_00"
+	}, {
+		"name": "RESIDENT EVIL 6",
+		"titleId": "CUSA03856_00"
+	}, {
+		"name": "RESIDENT EVIL REVELATIONS",
+		"titleId": "CUSA06314_00"
+	}, {
+		"name": "RESIDENT EVIL REVELATIONS 2",
+		"titleId": "CUSA00924_00"
+	}, {
+		"name": "Rise of the Tomb Raider",
+		"titleId": "CUSA05794_00"
+	}, {
+		"name": "Rogue Galaxy\u2122",
+		"titleId": "CUSA02195_00"
+	}, {
+		"name": "Rogue Legacy",
+		"titleId": "CUSA00629_00"
+	}, {
+		"name": "SHADOW OF THE COLOSSUS",
+		"titleId": "CUSA08034_00"
+	}, {
+		"name": "Shenmue",
+		"titleId": "CUSA12279_00"
+	}, {
+		"name": "Shenmue II",
+		"titleId": "CUSA12280_00"
+	}, {
+		"name": "Shenmue III",
+		"titleId": "CUSA12289_00"
+	}, {
+		"name": "Shovel Knight: Treasure Trove",
+		"titleId": "CUSA01867_00"
+	}, {
+		"name": "Siren",
+		"titleId": "CUSA02198_00"
+	}, {
+		"name": "SOMA",
+		"titleId": "CUSA03333_00"
+	}, {
+		"name": "Spelunky",
+		"titleId": "CUSA00493_00"
+	}, {
+		"name": "STAR WARS\u2122 Battlefront\u2122 II",
+		"titleId": "CUSA05770_00"
+	}, {
+		"name": "STAR WARS Jedi: Fallen Order\u2122",
+		"titleId": "CUSA12539_00"
+	}, {
+		"name": "Strider",
+		"titleId": "CUSA00057_00"
+	}, {
+		"name": "Tales from the Borderlands",
+		"titleId": "CUSA00870_00"
+	}, {
+		"name": "Tales of Vesperia: Definitive Edition",
+		"titleId": "CUSA12027_00"
+	}, {
+		"name": "The Banner Saga",
+		"titleId": "CUSA02538_00"
+	}, {
+		"name": "Banner Saga 2",
+		"titleId": "CUSA04444_00"
+	}, {
+		"name": "Banner Saga 3",
+		"titleId": "CUSA11054_00"
+	}, {
+		"name": "The Evil Within",
+		"titleId": "CUSA00203_00"
+	}, {
+		"name": "The Evil Within\u00ae 2",
+		"titleId": "CUSA06166_00"
+	}, {
+		"name": "The Last Guardian\u2122",
+		"titleId": "CUSA03627_00"
+	}, {
+		"name": "The Last of Us\u2122 Part II",
+		"titleId": "CUSA07820_00"
+	}, {
+		"name": "The Surge",
+		"titleId": "CUSA04733_00"
+	}, {
+		"name": "The Walking Dead: Season 1",
+		"titleId": "CUSA01019_00"
+	}, {
+		"name": "The Walking Dead: Season 2",
+		"titleId": "CUSA01017_00"
+	}, {
+		"name": "TRANSFORMERS: Devastation",
+		"titleId": "CUSA01410_00"
+	}, {
+		"name": "Transistor",
+		"titleId": "CUSA00502_00"
+	}, {
+		"name": "Uncharted: The Nathan Drake Collection\u2122",
+		"titleId": "CUSA02320_00"
+	}, {
+		"name": "Uncharted 4: A Thief\u2019s End\u2122",
+		"titleId": "CUSA00341_00"
+	}, {
+		"name": "Uncharted: The Lost Legacy\u2122",
+		"titleId": "CUSA07737_00"
+	}, {
+		"name": "Until Dawn\u2122",
+		"titleId": "CUSA00359_00"
+	}, {
+		"name": "Valkyria Chronicles",
+		"titleId": "CUSA03880_00"
+	}, {
+		"name": "Vanquish",
+		"titleId": "CUSA16147_00"
+	}, {
+		"name": "What Remains of Edith Finch",
+		"titleId": "CUSA06886_00"
+	}, {
+		"name": "Wolfenstein\u00ae: The New Order",
+		"titleId": "CUSA00314_00"
+	}, {
+		"name": "Wolfenstein\u00ae: The Old Blood",
+		"titleId": "CUSA01540_00"
+	}, {
+		"name": "Wolfenstein\u00ae II: The New Colossus\u2122",
+		"titleId": "CUSA07384_00"
+	}, {
+		"name": "YAKUZA 0",
+		"titleId": "CUSA05070_00"
+	}, {
+		"name": "YAKUZA 6: The Song of Life",
+		"titleId": "CUSA09032_00"
+	}, {
+		"name": "Ys VIII -Lacrimosa of DANA-",
+		"titleId": "CUSA08565_00"
+	}, {
+		"name": "Zero Escape: The Nonary Games",
+		"titleId": "CUSA06861_00"
+	}, {
+		"name": "Zero Escape: Zero Time Dilemma",
+		"titleId": "CUSA07593_00"
+	}],
+	"ps3": [{
+		"name": "Deadly Premonition: The Director's Cut",
+		"titleId": "NPUB31179_00"
+	}, {
+		"name": "ENSLAVED\u2122: Odyssey to the West\u2122",
+		"titleId": "BLUS30558_00"
+	}, {
+		"name": "Folklore\u2122",
+		"titleId": "BCUS98147_00"
+	}, {
+		"name": "God Of War\u00ae Collection",
+		"titleId": "BCUS98229_00"
+	}, {
+		"name": "God of War\u00ae: Chains of Olympus (Digital)",
+		"titleId": "NPUA80637_00"
+	}, {
+		"name": "God of War\u00ae: Ghost of Sparta (Digital)",
+		"titleId": "NPUA80636_00"
+	}, {
+		"name": "God of War: Ascension",
+		"titleId": "NPUA80918_00"
+	}, {
+		"name": "ICO\u2122",
+		"titleId": "NPUA80676_00"
+	}, {
+		"name": "Jak and Daxter Collection\u2122",
+		"titleId": "BCUS98281_00"
+	}, {
+		"name": "JoJo's Bizarre Adventure: All-Star Battle",
+		"titleId": "NPUB90998_00"
+	}, {
+		"name": "Puppeteer\u2122",
+		"titleId": "NPUA80959_00"
+	}, {
+		"name": "Ratchet & Clank Collection",
+		"titleId": "BCUS98282_00"
+	}, {
+		"name": "Ratchet & Clank Future: A Crack in Time",
+		"titleId": "BCUS98124_00"
+	}, {
+		"name": "Ratchet & Clank\u00ae Tools of Destruction\u2122",
+		"titleId": "BCUS98127_00"
+	}, {
+		"name": "Ratchet & Clank: Into the Nexus\u2122",
+		"titleId": "BCUS99245_00"
+	}, {
+		"name": "RESIDENT EVIL CODE: Veronica X",
+		"titleId": "NPUB30467_00"
+	}, {
+		"name": "Resistance: Fall of Man\u2122",
+		"titleId": "BCUS98107_00"
+	}, {
+		"name": "Resistance 2\u2122",
+		"titleId": "BCUS98190_00"
+	}, {
+		"name": "Resistance 3",
+		"titleId": "BCUS98176_00"
+	}, {
+		"name": "Sly Cooper: Thieves in Time\u2122",
+		"titleId": "BCUS99142_00"
+	}, {
+		"name": "Tales of Symphonia Chronicles",
+		"titleId": "BLUS31172_00"
+	}, {
+		"name": "THE LEGEND OF HEROES: TRAILS OF COLD STEEL",
+		"titleId": "BLUS31572_00"
+	}, {
+		"name": "THE LEGEND OF HEROES: TRAILS OF COLD STEEL2",
+		"titleId": "BLUS31597_00"
+	}, {
+		"name": "The Sly Collection\u2122",
+		"titleId": "BCUS98246_00"
+	}],
+	"vita": []
+}

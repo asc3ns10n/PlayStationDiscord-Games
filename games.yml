@@ -1,0 +1,177 @@
+ps5:
+  - PPSA01491_00 # Assassin's Creed� Valhalla
+  - PPSA01325_00 # Astro's Playroom
+  - PPSA01462_00 # Borderlands 3
+  - PPSA01502_00 # Bugsnax
+  - PPSA01628_00 # Call of Duty�: Black Ops Cold War
+  - PPSA02048_00 # Dead by Daylight
+  - PPSA01342_00 # Demon's Souls
+  - PPSA01442_00 # Devil May Cry 5 Special Edition
+  - PPSA01552_00 # DIRT 5
+  - PPSA01922_00 # Fortnite
+  - PPSA01347_00 # Godfall
+  - PPSA01411_00 # Marvel's Spider-Man: Miles Morales
+  - PPSA01387_00 # NBA 2K21
+  - PPSA02487_00 # Nioh 2 Remastered
+  - PPSA02110_00 # No Man's Sky
+  - PPSA02118_00 # Observer: System Redux
+  - PPSA01289_00 # Sackboy: A Big Adventure
+  - PPSA01825_00 # The Pathless
+  - PPSA01487_00 # Watch Dogs: Legion
+ps4:
+  - CUSA03349_00 # ABZU
+  - CUSA00363_00 # Alien: Isolation
+  - CUSA05882_00 # Amnesia: Collection
+  - CUSA09311_00 # Assassin's Creed Odyssey
+  - CUSA02389_00 # Assassin's Creed Syndicate
+  - CUSA01230_00 # Axiom Verge
+  - CUSA02052_00 # Bastion
+  - CUSA05332_00 # Batman: The Telltale Series
+  - CUSA16113_00 # Bayonetta
+  - CUSA07953_00 # Bloodstained: Ritual of the Night
+  - CUSA02297_00 # Brothers: a Tale of two Sons
+  - CUSA03507_00 # Bully
+  - CUSA02290_00 # Call of Duty: Black Ops III
+  - CUSA00339_00 # Child of Light
+  - CUSA03167_00 # Cosmic Star Heroine
+  - CUSA07402_00 # Crash Bandicoot N. Sane Trilogy
+  - CUSA16596_00 # Cyberpunk 2077
+  - CUSA08692_00 # Dark Souls Remastered
+  - CUSA03388_00 # Dark Souls III
+  - CUSA08966_00 # Days Gone
+  - CUSA11260_00 # Death Stranding
+  - CUSA08344_00 # Detroit: Become Human
+  - CUSA09407_00 # Devil May Cry HD Collection
+  - CUSA01671_00 # Devil May Cry 4 Special Edition
+  - CUSA02218_00 # Dishonored Definitive Edition
+  - CUSA03642_00 # Dishonored 2
+  - CUSA01013_00 # DmC Devil May Cry: Definitive Edition
+  - CUSA02085_00 # DOOM
+  - CUSA01326_00 # Dust: An Elysian Tail
+  - CUSA07211_00 # FINAL FANTASY VII REMAKE
+  - CUSA08877_00 # FINAL FANTASY IX
+  - CUSA01227_00 # FINAL FANTASY X/X-2 HD Remaster
+  - CUSA05532_00 # FINAL FANTASY ? THE ZODIAC AGE
+  - CUSA01633_00 # FINAL FANTASY XV
+  - CUSA00144_00 # flOw
+  - CUSA23681_00 # Genshin Impact
+  - CUSA11456_00 # Ghost of Tsushima
+  - CUSA07408_00 # God of War
+  - CUSA01228_00 # Gone Home
+  - CUSA01130_00 # Gravity Rush Remastered
+  - CUSA03694_00 # Gravity Rush 2
+  - CUSA01319_00 # Grim Fandango Remastered
+  - CUSA00151_00 # Guacamelee! Super Turbo Championship Edition
+  - CUSA07098_00 # Guacamelee! 2
+  - CUSA02533_00 # HEAVY RAIN
+  - CUSA02976_00 # HITMAN
+  - CUSA13632_00 # Hollow Knight
+  - CUSA10237_00 # Horizon Zero Dawn: Complete Edition
+  - CUSA00486_00 # Hotline Miami
+  - CUSA04770_00 # I am Setsuna
+  - CUSA00575_00 # inFAMOUS First Ligh
+  - CUSA05297_00 # INSIDE
+  - CUSA04897_00 # JoJo's Bizarre Adventure: Eyes of Heaven
+  - CUSA00694_00 # Journey
+  - CUSA13186_00 # Judgment
+  - CUSA24361_00 # Katamari Damacy Reroll
+  - CUSA05933_00 # KINGDOM HEARTS HD 1.5 +2.5 ReMIX
+  - CUSA05795_00 # KINGDOM HEARTS HD 2.8 FINAL CHAPTER PROLOGUE
+  - CUSA12031_00 # Kingdom Hearts III
+  - CUSA01442_00 # Life Is Strange
+  - CUSA08283_00 # Life is Strange 2
+  - CUSA08479_00 # Life is Strange: Before the Storm
+  - CUSA01664_00 # LIMBO
+  - CUSA02516_00 # Mega Man Legacy Collection
+  - CUSA15879_00 # Metal Wolf Chaos XD
+  - CUSA00683_00 # Metro 2033 Redux
+  - CUSA00624_00 # Metro: Last Light Redux
+  - CUSA07713_00 # Monster Hunter: World
+  - CUSA14156_00 # Ni no Kuni Wrath of the White Witch Remastered
+  - CUSA07345_00 # Ni no Kuni II: Revenant Kingdom
+  - CUSA18774_00 # NieR Replicant ver.1.22474487139�
+  - CUSA04551_00 # NieR:Automata
+  - CUSA07113_00 # Nioh
+  - CUSA05083_00 # Odin Sphere Leifthrasir
+  - CUSA08418_00 # OKAMI HD
+  - CUSA11300_00 # Onimusha: Warlords
+  - CUSA09929_00 # Outer Wilds
+  - CUSA00325_00 # Outlast
+  - CUSA04493_00 # Prey
+  - CUSA01047_00 # Ratchet & Clank
+  - CUSA09193_00 # Resident Evil 2
+  - CUSA14168_00 # Resident Evil 3
+  - CUSA04885_00 # Resident Evil 4
+  - CUSA04437_00 # Resident Evil 5
+  - CUSA03856_00 # Resident Evil 6
+  - CUSA06314_00 # RESIDENT EVIL REVELATIONS
+  - CUSA00924_00 # RESIDENT EVIL REVELATIONS 2
+  - CUSA05794_00 # Rise of the Tomb Raider
+  - CUSA02195_00 # Rogue Galaxy
+  - CUSA00629_00 # Rogue Legacy
+  - CUSA08034_00 # Shadow of the Colossus
+  - CUSA12279_00 # Shenmue
+  - CUSA12280_00 # Shenmue II
+  - CUSA12289_00 # Shenmue III
+  - CUSA01867_00 # Shovel Knight
+  - CUSA02198_00 # Siren
+  - CUSA03333_00 # Soma
+  - CUSA00493_00 # Spelunky
+  - CUSA05770_00 # STAR WARS Battlefront II
+  - CUSA12539_00 # STAR WARS Jedi: Fallen Order
+  - CUSA00057_00 # Strider
+  - CUSA00870_00 # Tales from the Borderlands
+  - CUSA12027_00 # Tales of Vesperia
+  - CUSA02538_00 # The Banner Saga
+  - CUSA04444_00 # The Banner Saga 2
+  - CUSA11054_00 # The Banner Saga 3
+  - CUSA00203_00 # The Evil Within
+  - CUSA06166_00 # The Evil Within 2
+  - CUSA03627_00 # The Last Guardian
+  - CUSA07820_00 # The Last of Us Part II
+  - CUSA04733_00 # The Surge
+  - CUSA01019_00 # The Walking Dead: Season 1
+  - CUSA01017_00 # The Walking Dead: Season 2
+  - CUSA01410_00 # TRANSFORMERS: Devastation
+  - CUSA00502_00 # Transistor
+  - CUSA02320_00 # UNCHARTED The Nathan Drake Collection
+  - CUSA00341_00 # Uncharted 4: A Thief�s End
+  - CUSA07737_00 # Uncharted: The Lost Legacy
+  - CUSA00359_00 # Until Dawn
+  - CUSA03880_00 # Valkyria Chronicles Remastered
+  - CUSA16147_00 # Vanquish
+  - CUSA06886_00 # What Remains of Edith Finch
+  - CUSA00314_00 # Wolfenstein: The New Order
+  - CUSA01540_00 # Wolfenstein: The Old Blood
+  - CUSA07384_00 # Wolfenstein II: The New Colossus
+  - CUSA05070_00 # Yakuza 0
+  - CUSA09032_00 # Yakuza 6
+  - CUSA08565_00 # Ys VIII -Lacrimosa of DANA-
+  - CUSA06861_00 # Zero Escape: The Nonary Games
+  - CUSA07593_00 # Zero Escape: Zero Time Dilemma
+ps3:
+  - NPUB31179_00 # Deadly Premonition: The Director's Cut
+  - BLUS30558_00 # ENSLAVED�: Odyssey to the West�
+  - BCUS98147_00 # Folklore�
+  - BCUS98229_00 # God Of War� Collection
+  - NPUA80637_00 # God of War�: Chains of Olympus (Digital)
+  - NPUA80636_00 # God of War�: Ghost of Sparta (Digital)
+  - NPUA80918_00 # God of War: Ascension
+  - NPUA80676_00 # ICO�
+  - BCUS98281_00 # Jak and Daxter Collection�
+  - NPUB90998_00 # JoJo's Bizarre Adventure: All-Star Battle
+  - NPUA80959_00 # Puppeteer�
+  - BCUS98282_00 # Ratchet & Clank Collection
+  - BCUS98124_00 # Ratchet & Clank Future: A Crack in Time
+  - BCUS98127_00 # Ratchet & Clank� Tools of Destruction�
+  - BCUS99245_00 # Ratchet & Clank: Into the Nexus�
+  - NPUB30467_00 # RESIDENT EVIL CODE: Veronica X
+  - BCUS98107_00 # Resistance: Fall of Man�
+  - BCUS98190_00 # Resistance 2�
+  - BCUS98176_00 # Resistance 3
+  - BCUS99142_00 # Sly Cooper: Thieves in Time�
+  - BLUS31172_00 # Tales of Symphonia Chronicles
+  - BLUS31572_00 # THE LEGEND OF HEROES: TRAILS OF COLD STEEL
+  - BLUS31597_00 # THE LEGEND OF HEROES: TRAILS OF COLD STEEL2
+  - BCUS98246_00 # The Sly Collection�
+vita:
